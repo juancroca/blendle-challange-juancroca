@@ -1,0 +1,10 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: blendle
+  pool: 5
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: blendle
+  pool: 5
